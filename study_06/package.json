@@ -1,0 +1,14 @@
+{
+  "name": "study_06",
+  "version": "1.0.0",
+  "description": "Decorator - class Decorator - method Decorator - property Decorator - parameter Decorator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
